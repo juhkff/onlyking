@@ -1,0 +1,23 @@
+.DS_Store
+okfront/node_modules
+okfront/dist
+
+
+# local env files
+okfront/.env.local
+okfront/.env.*.local
+
+# Log files
+okfront/npm-debug.log*
+okfront/yarn-debug.log*
+okfront/yarn-error.log*
+okfront/pnpm-debug.log*
+
+# Editor directories and files
+okfront/.idea
+okfront/.vscode
+okfront/*.suo
+okfront/*.ntvs*
+okfront/*.njsproj
+okfront/*.sln
+okfront/*.sw?
